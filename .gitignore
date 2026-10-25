@@ -2,3 +2,9 @@
 __pycache__/
 *.pyc
 .env
+
+# Local uploaded documents
+uploads/
+
+# Local Chroma vector database
+chroma_db/
